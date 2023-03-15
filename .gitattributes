@@ -1,0 +1,3 @@
+*.SLDPRT linguist-vendored
+*.SLDASM linguist-vendored
+*.STL linguist-vendored
